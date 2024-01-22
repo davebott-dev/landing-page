@@ -1,2 +1,2 @@
 # landing-page
-This is a project for The Odin Project where I get to utilize the skills I have learned to build a website from scratch and style it. 
+This is a project for The Odin Project where I get to utilize the skills I have learned to build a website from scratch and style it. I will eventually turn this page into my personal page where I upload content, projects, brand partnerships, merchandising, and more!
